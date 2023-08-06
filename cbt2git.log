@@ -1,0 +1,7 @@
+2023-08-06 05:25:47.531892 - Initialized conversion of CBT592
+2023-08-06 05:25:47.575264 - Received CBT.V505.FILE592.PDS from FILE592.XMI 
+2023-08-06 05:25:47.578214 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE592.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:25:47.579317 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE592.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:25:47.580516 - Found @FILE592.txt (text/plain) in CBT.V505.FILE592.PDS, moved to PDS/@FILE592
+2023-08-06 05:25:47.581528 - Found DISPLAY.txt (text/plain) in CBT.V505.FILE592.PDS, moved to PDS/DISPLAY
+2023-08-06 05:25:47.582580 - Found MACLIB.txt (text/plain) in CBT.V505.FILE592.PDS, moved to PDS/MACLIB
